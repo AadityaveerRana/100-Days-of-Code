@@ -3,9 +3,6 @@ Q7: Write a program to swap two numbers without using a third variable.
 */
 
 #include <stdio.h>
-
-#include <stdio.h>
-
 int main() {
     int a, b;
 
